@@ -9,3 +9,4 @@ func _ready() -> void:
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta: float) -> void:
 	pass
+# ROBBY youve seen what I can do. could a drug addict do what I do? I tweaked my back helping my parents move. You know that. You teased me about it. Remember?
